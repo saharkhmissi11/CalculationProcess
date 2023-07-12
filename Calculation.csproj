@@ -10,7 +10,6 @@
   <ItemGroup>
     <PackageReference Include="CamundaClient" Version="0.0.3" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
-    <PackageReference Include="NUnit" Version="3.13.3" />
   </ItemGroup>
 
 </Project>

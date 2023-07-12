@@ -14,6 +14,5 @@ C:\Users\ASUS\source\repos\Calculation\Calculation\obj\Debug\net6.0\Calculation.
 C:\Users\ASUS\source\repos\Calculation\Calculation\obj\Debug\net6.0\Calculation.genruntimeconfig.cache
 C:\Users\ASUS\source\repos\Calculation\Calculation\obj\Debug\net6.0\ref\Calculation.dll
 C:\Users\ASUS\source\repos\Calculation\Calculation\bin\Debug\net6.0\camunda-client.dll
-C:\Users\ASUS\source\repos\Calculation\Calculation\bin\Debug\net6.0\nunit.framework.dll
 C:\Users\ASUS\source\repos\Calculation\Calculation\obj\Debug\net6.0\Calculation.csproj.CopyComplete
 C:\Users\ASUS\source\repos\Calculation\Calculation\bin\Debug\net6.0\Newtonsoft.Json.dll

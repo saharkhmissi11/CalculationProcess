@@ -1,5 +1,4 @@
 ﻿
-
 using CamundaClient.Dto; //Contains Data Transfert Object classes for working with camunda entities
 using CamundaClient.Worker; //Contains classes and interfaces to handle external tasks
 
